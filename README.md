@@ -1,4 +1,4 @@
-# MacroSim
+# MacroecoSim
 
 This is a simple macroeconomy simulator. Only for education purpose and the simulation of the economy is not necessarily realistic.
 
